@@ -12,4 +12,4 @@ interface IPhoto extends Document {
     imagePath: string;
 }
 
-export default model<IPhoto>('Phto', schema)
+export default model<IPhoto>('Photo', schema)
