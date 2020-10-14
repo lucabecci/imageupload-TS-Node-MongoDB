@@ -1,6 +1,6 @@
 # API para imagenes.
 
-*API para imagenes donde los mismos podrán crear, editar, borrar y ver sus imagenes. Solamente sera el backend.*
+*API para imágenes donde el usuario podrá crear, editar, borrar y ver sus imágenes. Solamente sera el backend.*
 
 ---
 
