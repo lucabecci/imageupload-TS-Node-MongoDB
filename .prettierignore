@@ -1,0 +1,9 @@
+# Ignore artifacts:
+dist
+coverage
+commit-lint.js
+tsconfig.json
+nodemon.json
+.env
+uploads
+node_modules
